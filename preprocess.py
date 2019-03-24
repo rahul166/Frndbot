@@ -1,7 +1,6 @@
 ###code clean up task is there to be done
 ##Also this X,y,decode_target needed to be saved as .npy so model can use them 
-
-
+##fr.txt is the data
 
 import pandas as pd 
 
